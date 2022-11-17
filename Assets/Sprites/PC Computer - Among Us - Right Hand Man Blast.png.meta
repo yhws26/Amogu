@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: f244e4476134af0469b9653e45a32fe9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3664658002127159533
+    second: PC Computer - Among Us - Right Hand Man Blast_0
+  - first:
+      213: 4014721777519958633
+    second: PC Computer - Among Us - Right Hand Man Blast_1
+  - first:
+      213: -6383318072691507015
+    second: PC Computer - Among Us - Right Hand Man Blast_2
+  - first:
+      213: 2067777160543576627
+    second: PC Computer - Among Us - Right Hand Man Blast_3
+  - first:
+      213: 462435412026840760
+    second: PC Computer - Among Us - Right Hand Man Blast_4
+  - first:
+      213: 6805525658024074851
+    second: PC Computer - Among Us - Right Hand Man Blast_5
+  - first:
+      213: -6409800059687471824
+    second: PC Computer - Among Us - Right Hand Man Blast_6
+  - first:
+      213: 5434599004790856754
+    second: PC Computer - Among Us - Right Hand Man Blast_7
+  - first:
+      213: -4584927204394444856
+    second: PC Computer - Among Us - Right Hand Man Blast_8
+  - first:
+      213: -481226438936567965
+    second: PC Computer - Among Us - Right Hand Man Blast_9
+  - first:
+      213: -7820695819588330127
+    second: PC Computer - Among Us - Right Hand Man Blast_19
+  - first:
+      213: -2091621926988240400
+    second: PC Computer - Among Us - Right Hand Man Blast_20
+  - first:
+      213: -6401212046796222140
+    second: PC Computer - Among Us - Right Hand Man Blast_21
+  - first:
+      213: 8260690672370980474
+    second: PC Computer - Among Us - Right Hand Man Blast_22
+  - first:
+      213: -84591526165556041
+    second: PC Computer - Among Us - Right Hand Man Blast_23
+  - first:
+      213: -7109614784217327729
+    second: PC Computer - Among Us - Right Hand Man Blast_24
+  - first:
+      213: 2568657310223865830
+    second: PC Computer - Among Us - Right Hand Man Blast_25
+  - first:
+      213: -1650829661276438373
+    second: PC Computer - Among Us - Right Hand Man Blast_26
+  - first:
+      213: 2468987522347020344
+    second: PC Computer - Among Us - Right Hand Man Blast_27
+  - first:
+      213: -2623857922098692636
+    second: PC Computer - Among Us - Right Hand Man Blast_28
+  - first:
+      213: 7260787729393436647
+    second: PC Computer - Among Us - Right Hand Man Blast_29
+  - first:
+      213: -151828227674393021
+    second: PC Computer - Among Us - Right Hand Man Blast_30
+  - first:
+      213: -8867669828158673815
+    second: PC Computer - Among Us - Right Hand Man Blast_31
+  - first:
+      213: 644046326717429119
+    second: PC Computer - Among Us - Right Hand Man Blast_32
+  - first:
+      213: -5800071586890507407
+    second: PC Computer - Among Us - Right Hand Man Blast_33
+  - first:
+      213: -3061720993587999484
+    second: PC Computer - Among Us - Right Hand Man Blast_34
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1308
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de00518690b7bd230800000000000000
+      internalID: 3664658002127159533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1289
+        width: 118
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a1a1d8f2827b730800000000000000
+      internalID: 4014721777519958633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1298
+        width: 148
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b044ec7806e967a0800000000000000
+      internalID: -6383318072691507015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1294
+        width: 157
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332add83f5832bc10800000000000000
+      internalID: 2067777160543576627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1305
+        width: 165
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6db61ae86ea6600800000000000000
+      internalID: 462435412026840760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_5
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1311
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ed45c5785127e50800000000000000
+      internalID: 6805525658024074851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_6
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1312
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035fc096ec0db07a0800000000000000
+      internalID: -6409800059687471824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1307
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c104940039b6b40800000000000000
+      internalID: 5434599004790856754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 1311
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c75b05eff01f50c0800000000000000
+      internalID: -4584927204394444856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_9
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1308
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fd8aa7a175259f0800000000000000
+      internalID: -481226438936567965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1158
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3decf5e7e784b74d0800000000000000
+      internalID: -3135833007410131245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1128
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ea4d721262ccff0800000000000000
+      internalID: -14594774944928103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1118
+        width: 140
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8710f2c4dd3530800000000000000
+      internalID: 3836456391306349234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1124
+        width: 147
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5823dac4a7b6639c0800000000000000
+      internalID: -3947849850327059835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_14
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1148
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e0354b8dd407e0800000000000000
+      internalID: -1800070360810329633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1146
+        width: 157
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbb3de015f2e7250800000000000000
+      internalID: 5944240583363247037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 964
+        width: 464
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91fb1a700108ac50800000000000000
+      internalID: 6676587549137039773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 989
+        width: 450
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139c6e2a9dfaf5990800000000000000
+      internalID: -7394998713843267279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_18
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1001
+        width: 449
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1914be84ff028db0800000000000000
+      internalID: -4791249510528181987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_19
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 841
+        width: 468
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1e01869e477390800000000000000
+      internalID: -7820695819588330127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_20
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 842
+        width: 471
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9a27570f019f2e0800000000000000
+      internalID: -2091621926988240400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_21
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 842
+        width: 471
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44192cafe835a27a0800000000000000
+      internalID: -6401212046796222140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 719
+        width: 465
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a761e06466ed3a270800000000000000
+      internalID: 8260690672370980474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 719
+        width: 465
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4d4e3847873def0800000000000000
+      internalID: -84591526165556041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 724
+        width: 450
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f875cd8a503955d90800000000000000
+      internalID: -7109614784217327729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 596
+        width: 468
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e79a9dd634b5a320800000000000000
+      internalID: 2568657310223865830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_26
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 597
+        width: 471
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9080f66b231719e0800000000000000
+      internalID: -1650829661276438373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_27
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 597
+        width: 465
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830bd50021b934220800000000000000
+      internalID: 2468987522347020344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 479
+        width: 450
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed76342f1f269bd0800000000000000
+      internalID: -2623857922098692636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_29
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 473
+        width: 468
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7c20878ff73c460800000000000000
+      internalID: 7260787729393436647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_30
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 500
+        width: 449
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3463796080994edf0800000000000000
+      internalID: -151828227674393021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 420
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c27233645bfe480800000000000000
+      internalID: -8867669828158673815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_32
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 369
+        width: 427
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7533eac8bc10f800800000000000000
+      internalID: 644046326717429119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_33
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 372
+        width: 434
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b1e8f2f91028fa0800000000000000
+      internalID: -5800071586890507407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Right Hand Man Blast_34
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 365
+        width: 460
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc4df5af49285d0800000000000000
+      internalID: -3061720993587999484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

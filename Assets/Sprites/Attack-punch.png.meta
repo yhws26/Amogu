@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: 808c1978472db2344a19872d26b5919f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6387581526820467226
+    second: PC Computer - Among Us - Gun New Version_0
+  - first:
+      213: -2330705958879530790
+    second: PC Computer - Among Us - Gun New Version_1
+  - first:
+      213: 2155909083061115738
+    second: PC Computer - Among Us - Gun New Version_2
+  - first:
+      213: 1384180848827604298
+    second: PC Computer - Among Us - Gun New Version_3
+  - first:
+      213: -8524126960139893111
+    second: PC Computer - Among Us - Gun New Version_4
+  - first:
+      213: -4813625223472713410
+    second: PC Computer - Among Us - Gun New Version_5
+  - first:
+      213: -2567375177062399385
+    second: PC Computer - Among Us - Gun New Version_6
+  - first:
+      213: -1185550714059527451
+    second: PC Computer - Among Us - Gun New Version_7
+  - first:
+      213: 8270690311992930318
+    second: PC Computer - Among Us - Gun New Version_8
+  - first:
+      213: 3361336358869160568
+    second: PC Computer - Among Us - Gun New Version_9
+  - first:
+      213: 3242973977807490870
+    second: PC Computer - Among Us - Gun New Version_10
+  - first:
+      213: -6604541257900039486
+    second: PC Computer - Among Us - Gun New Version_11
+  - first:
+      213: 4925216065218284654
+    second: PC Computer - Among Us - Gun New Version_12
+  - first:
+      213: 134703545002034599
+    second: PC Computer - Among Us - Gun New Version_13
+  - first:
+      213: -8818020892999586243
+    second: PC Computer - Among Us - Gun New Version_14
+  - first:
+      213: 5280987992754354603
+    second: PC Computer - Among Us - Gun New Version_15
+  - first:
+      213: 976215407736117258
+    second: PC Computer - Among Us - Gun New Version_16
+  - first:
+      213: 8636122602333588270
+    second: PC Computer - Among Us - Gun New Version_17
+  - first:
+      213: -4541423021915494521
+    second: Attack-punch_38
+  - first:
+      213: -1368792466783137835
+    second: Attack-punch_39
+  - first:
+      213: -3239980413055719113
+    second: Attack-punch_40
+  - first:
+      213: 4376922355139135730
+    second: Attack-punch_41
+  - first:
+      213: -2932713548113809062
+    second: Attack-punch_42
+  - first:
+      213: -4646663008600961811
+    second: Attack-punch_43
+  - first:
+      213: 6675066690102607829
+    second: Attack-punch_44
+  - first:
+      213: -3839235807807884528
+    second: Attack-punch_45
+  - first:
+      213: 7853714631239799768
+    second: Attack-punch_46
+  - first:
+      213: -729266804085358762
+    second: Attack-punch_47
+  - first:
+      213: -3173669830934826308
+    second: Attack-punch_48
+  - first:
+      213: -7491961324118560162
+    second: Attack-punch_49
+  - first:
+      213: -4523924827687558075
+    second: Attack-punch_50
+  - first:
+      213: 432003567864456065
+    second: Attack-punch_51
+  - first:
+      213: -6920662746214824516
+    second: Attack-punch_52
+  - first:
+      213: 6628548752107871603
+    second: Attack-punch_53
+  - first:
+      213: 5731391223088538011
+    second: Attack-punch_54
+  - first:
+      213: -4146393572366208642
+    second: Attack-punch_55
+  - first:
+      213: -8865434999004727973
+    second: Attack-punch_56
+  - first:
+      213: 6966280539929338860
+    second: Attack-punch_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1831
+        width: 155
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a123bf74e8f35a850800000000000000
+      internalID: 6387581526820467226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1626
+        width: 163
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b55e773e35bed10800000000000000
+      internalID: 2155909083061115738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1619
+        width: 174
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9447f529953310800000000000000
+      internalID: 1384180848827604298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1630
+        width: 283
+        height: 194
+      alignment: 9
+      pivot: {x: 0.40050352, y: 0.56728214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986088841b734b980800000000000000
+      internalID: -8524126960139893111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1559
+        width: 246
+        height: 264
+      alignment: 9
+      pivot: {x: 0.43079954, y: 0.45681578}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e317c09ec51923db0800000000000000
+      internalID: -4813625223472713410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_6
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1560
+        width: 245
+        height: 264
+      alignment: 9
+      pivot: {x: 0.43119594, y: 0.45618507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7624a0601e9de5cd0800000000000000
+      internalID: -2567375177062399385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_7
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1619
+        width: 166
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea654928e31c8fe0800000000000000
+      internalID: -1185550714059527451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_8
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1630
+        width: 159
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007a9dc40567c270800000000000000
+      internalID: 8270690311992930318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 452
+        width: 149
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0791d674ba7afd0800000000000000
+      internalID: -2330705958879530790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 448
+        width: 208
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8725009fb9dd5ae20800000000000000
+      internalID: 3361336358869160568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_10
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 417
+        width: 177
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f0d0b96ab510d20800000000000000
+      internalID: 3242973977807490870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 434
+        width: 204
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e472e7b4f754a0800000000000000
+      internalID: -6604541257900039486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_12
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 527
+        width: 277
+        height: 117
+      alignment: 9
+      pivot: {x: 0.4999998, y: 0.7389735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c02699ae1e95440800000000000000
+      internalID: 4925216065218284654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_13
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 503
+        width: 232
+        height: 141
+      alignment: 9
+      pivot: {x: 0.49999946, y: 0.7313475}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a505d519209ed100800000000000000
+      internalID: 134703545002034599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_14
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 497
+        width: 228
+        height: 146
+      alignment: 9
+      pivot: {x: 0.49999946, y: 0.7234242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e69cab7b810a580800000000000000
+      internalID: -8818020892999586243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_15
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 502
+        width: 222
+        height: 142
+      alignment: 9
+      pivot: {x: 0.4930024, y: 0.7187788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9f93b7996d94940800000000000000
+      internalID: 5280987992754354603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_16
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 497
+        width: 226
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48625305, y: 0.67963684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08df5abdb63c8d00800000000000000
+      internalID: 976215407736117258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Among Us - Gun New Version_17
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 505
+        width: 247
+        height: 139
+      alignment: 9
+      pivot: {x: 0.49371067, y: 0.6899761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bc0dc20cba9d770800000000000000
+      internalID: 8636122602333588270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1346
+        width: 265
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d1311b3d296710800000000000000
+      internalID: 1686929267141760815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1323
+        width: 308
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd8f5e373a9fc4b0800000000000000
+      internalID: -5417942264643088972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_2
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1349
+        width: 298
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb4bc89946aab3e0800000000000000
+      internalID: -2037133046405444620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_3
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1346
+        width: 318
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d614b32f039ebae80800000000000000
+      internalID: -8166177102874590867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_4
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1336
+        width: 308
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ee7d68a91288200800000000000000
+      internalID: 182432732479483533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_5
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1334
+        width: 336
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac684e3b01d71190800000000000000
+      internalID: -7991689167525876564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_6
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1347
+        width: 333
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df90d2b33e960c10800000000000000
+      internalID: 2019475427802783696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_7
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 1347
+        width: 354
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca3679a6e36aec20800000000000000
+      internalID: 3236509124555848385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1113
+        width: 341
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19248b801c1b8c60800000000000000
+      internalID: 7821376035244747038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_9
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1112
+        width: 329
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d6436b53a90fcb0800000000000000
+      internalID: -4832192844687708845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_10
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1108
+        width: 279
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea5505d5d8d339f0800000000000000
+      internalID: -489809521539720470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_11
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1112
+        width: 300
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8efd748ad98df010800000000000000
+      internalID: 1224286245333368463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_12
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1112
+        width: 305
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054b89627710e74a0800000000000000
+      internalID: -6593831193163549616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_13
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1112
+        width: 307
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489dfd67d53c3cb00800000000000000
+      internalID: 847735961069541764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_14
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 1096
+        width: 256
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3bc382616ee33e0800000000000000
+      internalID: -2071965795705113654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_15
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 1108
+        width: 209
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b368b4052bb1cf50800000000000000
+      internalID: 6900001871775687603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_16
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 1110
+        width: 182
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5dad79c331b80b0800000000000000
+      internalID: -5725461350304787008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_17
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 1116
+        width: 154
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d1d2d24b223ceb0800000000000000
+      internalID: -4700875428797276910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 977
+        width: 96
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aead45778e3f9f10800000000000000
+      internalID: 2278608687982292645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 971
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6fa0b3bdffe1420800000000000000
+      internalID: 2602798951720220366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 969
+        width: 92
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f82b13ec73285f80800000000000000
+      internalID: -8117699309042194190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 969
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14694618da9190d0800000000000000
+      internalID: -3417780389319973857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_22
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 909
+        width: 127
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f39e719812070980800000000000000
+      internalID: -8572881061132987402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_23
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 949
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952229ec4dc805850800000000000000
+      internalID: 6363741119101149785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_24
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 959
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ea542acd0dfb610800000000000000
+      internalID: 1639258435420008028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 971
+        width: 91
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312afae495abd7590800000000000000
+      internalID: -7674773297234468333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_26
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 986
+        width: 91
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b151286460c478b0800000000000000
+      internalID: -5155284135956098639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 726
+        width: 145
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52740559c77a6a570800000000000000
+      internalID: 8477647502094386981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 712
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3beac932779010800000000000000
+      internalID: 1195549818633271981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_29
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 706
+        width: 131
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd22d299de69c23e0800000000000000
+      internalID: -2077119380903353636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_30
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 703
+        width: 136
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4559e725bef9da0800000000000000
+      internalID: -5935767044307462998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 709
+        width: 113
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b56751c88279310800000000000000
+      internalID: 1411641590324550558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 698
+        width: 193
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1739b0663f45c9d80800000000000000
+      internalID: -8242619813629029519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_33
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 791
+        width: 197
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb435bfa90262b90800000000000000
+      internalID: -7267085098702124102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_34
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 778
+        width: 191
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f542c64d2efba50800000000000000
+      internalID: 6539194585940516677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_35
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 782
+        width: 187
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07772c5723a0ed3f0800000000000000
+      internalID: -874250065822976144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_36
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 677
+        width: 401
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833cbb879f5bddc60800000000000000
+      internalID: 7844626209026327352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_37
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 708
+        width: 134
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c758941b31c2c30800000000000000
+      internalID: 4335862193414569103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_38
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 713
+        width: 136
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78722f3b2df99f0c0800000000000000
+      internalID: -4541423021915494521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_39
+      rect:
+        serializedVersion: 2
+        x: 2210
+        y: 709
+        width: 134
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df092ee082110de0800000000000000
+      internalID: -1368792466783137835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_40
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 726
+        width: 144
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73927900bf64903d0800000000000000
+      internalID: -3239980413055719113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_41
+      rect:
+        serializedVersion: 2
+        x: 2508
+        y: 757
+        width: 173
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8c88b21b3fdbc30800000000000000
+      internalID: 4376922355139135730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_42
+      rect:
+        serializedVersion: 2
+        x: 2691
+        y: 750
+        width: 96
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5173b0f098ec47d0800000000000000
+      internalID: -2932713548113809062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_43
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 777
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec446ddc9cb38fb0800000000000000
+      internalID: -4646663008600961811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_44
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 260
+        width: 342
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfbb93e9c992ac50800000000000000
+      internalID: 6675066690102607829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_45
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 351
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b6aabf5b48bac0800000000000000
+      internalID: -3839235807807884528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_46
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 216
+        width: 362
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3165aa8dffdfc60800000000000000
+      internalID: 7853714631239799768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_47
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 205
+        width: 352
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ff10c94bf11e5f0800000000000000
+      internalID: -729266804085358762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_48
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 219
+        width: 357
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb271c48a1cd4f3d0800000000000000
+      internalID: -3173669830934826308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_49
+      rect:
+        serializedVersion: 2
+        x: 1821
+        y: 204
+        width: 351
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52b2fcaed4370890800000000000000
+      internalID: -7491961324118560162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_50
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 219
+        width: 356
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544ec17865ac731c0800000000000000
+      internalID: -4523924827687558075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_51
+      rect:
+        serializedVersion: 2
+        x: 2548
+        y: 206
+        width: 350
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1832344c4f8cef500800000000000000
+      internalID: 432003567864456065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_52
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 369
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5069946edd4ff90800000000000000
+      internalID: -6920662746214824516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_53
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 5
+        width: 363
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d9fb178f55dfb50800000000000000
+      internalID: 6628548752107871603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_54
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 15
+        width: 405
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ebf083fdf98f40800000000000000
+      internalID: 5731391223088538011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_55
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 22
+        width: 440
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e713624b30d0576c0800000000000000
+      internalID: -4146393572366208642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_56
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 29
+        width: 452
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55f109e6d5a7f480800000000000000
+      internalID: -8865434999004727973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack-punch_57
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 134
+        width: 265
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3643cfd333da060800000000000000
+      internalID: 6966280539929338860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
